@@ -1,0 +1,501 @@
+home_team,away_team,home_form,away_form,home_goals,away_goals,result
+Man City,Manchester United,8,7,3,1,Home Win
+Bayern Munich,Liverpool,4,9,1,1,Draw
+Barcelona,PSG,7,6,1,3,Away Win
+Real Madrid,Man City,4,2,0,1,Away Win
+Bayern Munich,PSG,8,3,2,0,Home Win
+Arsenal,Bayern Munich,8,7,2,2,Draw
+PSG,Bayern Munich,3,4,2,1,Home Win
+Manchester United,Juventus,4,3,1,0,Home Win
+Liverpool,Chelsea,1,8,3,1,Home Win
+Real Madrid,Juventus,4,1,0,0,Draw
+Man City,Chelsea,6,6,3,1,Home Win
+Man City,Real Madrid,6,4,2,0,Home Win
+PSG,Juventus,3,3,2,2,Draw
+Barcelona,Chelsea,8,9,2,1,Home Win
+Man City,Liverpool,2,3,3,2,Home Win
+Arsenal,Liverpool,1,3,2,1,Home Win
+Barcelona,Liverpool,3,5,2,3,Away Win
+Chelsea,Liverpool,8,6,3,0,Home Win
+Bayern Munich,Liverpool,3,8,1,2,Away Win
+PSG,Real Madrid,7,1,1,1,Draw
+Barcelona,Chelsea,2,7,2,0,Home Win
+Chelsea,Bayern Munich,8,5,3,2,Home Win
+Barcelona,Liverpool,8,6,1,2,Away Win
+Real Madrid,Chelsea,6,5,1,0,Home Win
+Barcelona,Liverpool,2,9,2,3,Away Win
+Barcelona,Bayern Munich,2,4,1,1,Draw
+Arsenal,Liverpool,6,7,0,1,Away Win
+Arsenal,Man City,3,7,1,2,Away Win
+Manchester United,Arsenal,6,3,2,2,Draw
+Real Madrid,PSG,1,3,1,2,Away Win
+Bayern Munich,Liverpool,4,9,2,2,Draw
+Juventus,PSG,1,9,1,1,Draw
+PSG,Arsenal,1,1,0,1,Away Win
+Chelsea,PSG,3,3,1,0,Home Win
+Juventus,Bayern Munich,7,7,3,2,Home Win
+Manchester United,Arsenal,3,7,1,3,Away Win
+Manchester United,Juventus,8,1,2,2,Draw
+Chelsea,Manchester United,8,5,2,0,Home Win
+Bayern Munich,Chelsea,5,7,1,0,Home Win
+Manchester United,Man City,4,6,2,0,Home Win
+Barcelona,PSG,5,9,0,1,Away Win
+Real Madrid,Barcelona,9,1,3,1,Home Win
+Chelsea,Juventus,8,4,0,2,Away Win
+Manchester United,Barcelona,5,1,2,0,Home Win
+Bayern Munich,Arsenal,9,3,3,2,Home Win
+Liverpool,Manchester United,9,1,1,0,Home Win
+Man City,Liverpool,2,8,0,1,Away Win
+PSG,Manchester United,4,6,0,2,Away Win
+Bayern Munich,PSG,9,8,2,2,Draw
+Manchester United,Bayern Munich,2,2,2,0,Home Win
+PSG,Barcelona,9,9,2,2,Draw
+Manchester United,Bayern Munich,6,4,0,0,Draw
+Bayern Munich,Barcelona,9,2,1,0,Home Win
+PSG,Real Madrid,7,9,1,2,Away Win
+Barcelona,Manchester United,4,8,1,0,Home Win
+PSG,Barcelona,2,8,1,1,Draw
+Real Madrid,Juventus,3,3,0,3,Away Win
+Liverpool,Manchester United,3,6,1,1,Draw
+Manchester United,Juventus,8,4,1,0,Home Win
+Barcelona,Arsenal,3,1,2,1,Home Win
+Barcelona,Man City,3,2,1,2,Away Win
+Real Madrid,Liverpool,1,9,1,2,Away Win
+PSG,Real Madrid,1,6,0,1,Away Win
+Arsenal,Chelsea,3,3,1,2,Away Win
+Real Madrid,Juventus,4,2,2,1,Home Win
+Juventus,Arsenal,5,9,0,2,Away Win
+Real Madrid,Bayern Munich,8,9,0,0,Draw
+Barcelona,Real Madrid,2,3,1,1,Draw
+Manchester United,Man City,8,3,0,1,Away Win
+Barcelona,Chelsea,1,1,0,2,Away Win
+Bayern Munich,PSG,2,4,2,1,Home Win
+Liverpool,PSG,7,6,1,2,Away Win
+Manchester United,Real Madrid,3,7,0,2,Away Win
+Real Madrid,Bayern Munich,8,5,3,2,Home Win
+Liverpool,PSG,2,7,3,1,Home Win
+PSG,Chelsea,4,2,3,2,Home Win
+Barcelona,Juventus,4,9,1,3,Away Win
+Liverpool,Manchester United,7,7,3,1,Home Win
+Barcelona,Real Madrid,7,9,0,3,Away Win
+Real Madrid,Bayern Munich,6,5,2,1,Home Win
+Juventus,Barcelona,4,5,1,2,Away Win
+Real Madrid,Manchester United,8,4,1,3,Away Win
+Juventus,Bayern Munich,6,9,3,1,Home Win
+Bayern Munich,PSG,4,2,2,3,Away Win
+Liverpool,Juventus,4,1,1,0,Home Win
+Man City,Bayern Munich,3,6,0,0,Draw
+Juventus,Real Madrid,7,1,3,2,Home Win
+Bayern Munich,Arsenal,8,8,1,2,Away Win
+Arsenal,Chelsea,6,8,1,3,Away Win
+PSG,Barcelona,6,2,1,2,Away Win
+Juventus,Real Madrid,4,1,3,1,Home Win
+PSG,Juventus,7,9,1,1,Draw
+Liverpool,Barcelona,5,7,2,2,Draw
+Arsenal,PSG,4,2,0,1,Away Win
+PSG,Bayern Munich,5,6,0,1,Away Win
+Liverpool,Chelsea,9,4,1,0,Home Win
+Real Madrid,Manchester United,4,4,1,3,Away Win
+PSG,Man City,8,5,3,2,Home Win
+Chelsea,Real Madrid,3,8,0,1,Away Win
+Bayern Munich,Real Madrid,3,2,3,0,Home Win
+PSG,Juventus,8,3,3,1,Home Win
+Manchester United,Barcelona,8,5,3,1,Home Win
+Manchester United,Liverpool,4,9,2,3,Away Win
+Barcelona,Arsenal,8,6,0,3,Away Win
+Chelsea,Man City,3,8,0,1,Away Win
+Bayern Munich,PSG,1,8,1,1,Draw
+Bayern Munich,Arsenal,8,4,3,0,Home Win
+PSG,Manchester United,1,7,1,1,Draw
+Bayern Munich,Chelsea,8,6,3,1,Home Win
+Arsenal,Manchester United,6,8,1,2,Away Win
+Juventus,Bayern Munich,9,9,2,3,Away Win
+Bayern Munich,PSG,4,7,1,1,Draw
+Real Madrid,Bayern Munich,5,8,2,3,Away Win
+Liverpool,Real Madrid,8,3,1,1,Draw
+Chelsea,Real Madrid,4,7,2,2,Draw
+Man City,Chelsea,1,4,2,2,Draw
+Liverpool,Manchester United,4,9,1,2,Away Win
+Liverpool,Juventus,6,9,1,0,Home Win
+PSG,Barcelona,5,6,2,2,Draw
+Real Madrid,Barcelona,6,4,1,0,Home Win
+Arsenal,Chelsea,7,8,1,1,Draw
+Barcelona,Man City,9,3,1,1,Draw
+Barcelona,Arsenal,4,7,0,0,Draw
+Chelsea,Man City,7,7,1,3,Away Win
+Bayern Munich,Manchester United,7,6,2,2,Draw
+Juventus,Arsenal,9,4,1,0,Home Win
+Liverpool,Chelsea,8,5,2,1,Home Win
+Chelsea,Manchester United,2,2,3,0,Home Win
+Barcelona,Juventus,9,9,2,1,Home Win
+Manchester United,Bayern Munich,8,1,2,0,Home Win
+Bayern Munich,PSG,6,9,2,2,Draw
+Chelsea,Man City,6,7,2,3,Away Win
+PSG,Bayern Munich,4,6,3,1,Home Win
+Barcelona,Liverpool,5,1,2,1,Home Win
+Arsenal,Liverpool,5,5,2,3,Away Win
+Real Madrid,Bayern Munich,2,3,1,0,Home Win
+Juventus,Barcelona,4,3,1,0,Home Win
+Arsenal,Liverpool,9,5,2,0,Home Win
+Man City,Manchester United,1,1,0,0,Draw
+Liverpool,Man City,2,9,0,1,Away Win
+Liverpool,Man City,1,1,0,0,Draw
+Manchester United,Arsenal,7,2,1,2,Away Win
+Man City,Real Madrid,6,6,3,2,Home Win
+Liverpool,Bayern Munich,6,4,1,1,Draw
+Bayern Munich,Manchester United,4,6,1,1,Draw
+Manchester United,Barcelona,3,6,0,0,Draw
+Barcelona,PSG,3,5,2,0,Home Win
+Chelsea,Man City,4,1,3,0,Home Win
+Real Madrid,Juventus,7,4,1,0,Home Win
+PSG,Man City,7,5,1,2,Away Win
+Bayern Munich,Chelsea,1,4,0,1,Away Win
+PSG,Man City,6,1,2,2,Draw
+Liverpool,Real Madrid,5,2,1,0,Home Win
+Juventus,Arsenal,5,7,2,2,Draw
+Chelsea,Bayern Munich,1,7,1,1,Draw
+PSG,Juventus,9,8,0,0,Draw
+Bayern Munich,Man City,8,6,3,0,Home Win
+Liverpool,Real Madrid,2,2,3,1,Home Win
+PSG,Bayern Munich,2,2,1,1,Draw
+Manchester United,Barcelona,8,3,3,2,Home Win
+Man City,Juventus,2,5,0,2,Away Win
+Man City,Real Madrid,9,1,1,3,Away Win
+Liverpool,Manchester United,9,9,3,2,Home Win
+Arsenal,PSG,5,1,3,2,Home Win
+Chelsea,Bayern Munich,7,9,2,3,Away Win
+Juventus,Chelsea,6,5,2,2,Draw
+Bayern Munich,Real Madrid,9,6,2,2,Draw
+Chelsea,Real Madrid,8,5,3,1,Home Win
+Bayern Munich,Man City,5,3,2,1,Home Win
+Juventus,Arsenal,4,1,1,2,Away Win
+Juventus,Bayern Munich,5,4,1,1,Draw
+Barcelona,Liverpool,3,1,1,3,Away Win
+Man City,Liverpool,1,1,0,2,Away Win
+Chelsea,Man City,6,1,0,2,Away Win
+Man City,Manchester United,5,2,2,0,Home Win
+Liverpool,Manchester United,2,2,1,1,Draw
+PSG,Man City,3,1,2,0,Home Win
+Arsenal,Bayern Munich,9,5,4,1,Home Win
+Manchester United,Barcelona,4,5,1,1,Draw
+Real Madrid,Barcelona,2,9,0,2,Away Win
+PSG,Bayern Munich,6,2,0,0,Draw
+Juventus,Man City,8,2,1,2,Away Win
+Chelsea,Bayern Munich,1,1,1,1,Draw
+Manchester United,Barcelona,7,6,1,2,Away Win
+Bayern Munich,Manchester United,2,3,1,2,Away Win
+Liverpool,Arsenal,9,7,1,0,Home Win
+Juventus,Bayern Munich,5,3,1,2,Away Win
+Man City,Liverpool,9,6,0,2,Away Win
+Chelsea,Man City,6,1,0,0,Draw
+Arsenal,Chelsea,5,7,3,1,Home Win
+PSG,Barcelona,3,4,2,1,Home Win
+Juventus,Arsenal,1,7,2,0,Home Win
+Liverpool,Bayern Munich,3,3,3,2,Home Win
+Man City,Arsenal,4,5,1,4,Away Win
+Chelsea,Juventus,8,8,1,1,Draw
+Barcelona,Chelsea,4,8,1,2,Away Win
+Barcelona,Arsenal,2,6,2,2,Draw
+Man City,Manchester United,7,4,1,4,Away Win
+Arsenal,Barcelona,7,5,2,0,Home Win
+Liverpool,Chelsea,6,6,2,2,Draw
+Manchester United,Bayern Munich,7,8,2,1,Home Win
+Arsenal,Juventus,3,1,0,2,Away Win
+Liverpool,PSG,5,1,3,0,Home Win
+Real Madrid,PSG,4,9,2,1,Home Win
+Arsenal,Barcelona,8,3,2,1,Home Win
+Chelsea,Barcelona,9,2,2,2,Draw
+Arsenal,Juventus,2,9,0,1,Away Win
+PSG,Chelsea,3,6,0,0,Draw
+Manchester United,Arsenal,9,6,2,2,Draw
+Chelsea,Manchester United,4,5,0,1,Away Win
+Real Madrid,Chelsea,2,8,2,2,Draw
+Bayern Munich,Man City,1,8,1,0,Home Win
+Liverpool,Manchester United,1,9,2,0,Home Win
+Real Madrid,Bayern Munich,5,5,2,1,Home Win
+Real Madrid,Manchester United,6,8,1,0,Home Win
+Manchester United,Man City,1,8,0,1,Away Win
+PSG,Barcelona,2,6,3,1,Home Win
+Barcelona,Liverpool,5,8,3,2,Home Win
+Man City,Barcelona,8,4,2,2,Draw
+Liverpool,Bayern Munich,1,9,0,3,Away Win
+Bayern Munich,Chelsea,3,2,0,1,Away Win
+Arsenal,Manchester United,8,9,1,1,Draw
+Manchester United,Arsenal,1,3,2,2,Draw
+Bayern Munich,PSG,4,8,0,1,Away Win
+Barcelona,Chelsea,3,8,3,3,Draw
+Man City,Arsenal,8,3,1,2,Away Win
+Man City,Chelsea,3,3,2,1,Home Win
+Liverpool,Man City,7,6,1,1,Draw
+Bayern Munich,Manchester United,6,3,2,0,Home Win
+Chelsea,Man City,5,2,2,1,Home Win
+Man City,Bayern Munich,6,6,2,1,Home Win
+Man City,Juventus,1,2,1,2,Away Win
+Man City,Manchester United,5,9,1,3,Away Win
+PSG,Manchester United,8,3,3,1,Home Win
+Barcelona,Chelsea,9,2,3,1,Home Win
+PSG,Liverpool,9,7,4,0,Home Win
+Chelsea,Manchester United,4,2,2,0,Home Win
+Manchester United,PSG,1,8,0,2,Away Win
+PSG,Liverpool,7,1,1,1,Draw
+Liverpool,Chelsea,9,2,2,0,Home Win
+Real Madrid,Liverpool,8,9,1,0,Home Win
+Arsenal,Liverpool,5,6,3,2,Home Win
+Juventus,Real Madrid,3,8,3,3,Draw
+Chelsea,PSG,8,7,5,3,Home Win
+PSG,Bayern Munich,7,8,1,1,Draw
+Barcelona,Arsenal,2,6,0,0,Draw
+Real Madrid,Arsenal,4,5,2,3,Away Win
+Arsenal,Juventus,5,1,1,0,Home Win
+Real Madrid,Barcelona,3,9,1,1,Draw
+Bayern Munich,PSG,6,8,0,2,Away Win
+Real Madrid,Arsenal,9,6,3,2,Home Win
+Arsenal,Juventus,6,1,2,2,Draw
+Manchester United,PSG,5,6,2,4,Away Win
+Manchester United,Chelsea,2,4,4,1,Home Win
+PSG,Barcelona,1,1,1,2,Away Win
+Bayern Munich,Liverpool,1,3,3,0,Home Win
+PSG,Real Madrid,2,5,1,1,Draw
+Manchester United,Real Madrid,6,6,2,2,Draw
+Chelsea,Manchester United,3,9,1,0,Home Win
+Juventus,Bayern Munich,7,8,2,1,Home Win
+Liverpool,PSG,3,6,0,2,Away Win
+PSG,Juventus,9,1,1,0,Home Win
+Arsenal,Juventus,6,9,1,0,Home Win
+Chelsea,Man City,6,7,1,2,Away Win
+Chelsea,Real Madrid,4,6,2,1,Home Win
+Liverpool,Real Madrid,1,5,1,1,Draw
+Manchester United,Man City,8,4,3,1,Home Win
+Arsenal,Chelsea,7,5,1,0,Home Win
+Manchester United,Liverpool,8,3,1,0,Home Win
+Real Madrid,Juventus,8,7,3,2,Home Win
+Barcelona,Arsenal,9,6,1,1,Draw
+Manchester United,Man City,7,3,1,2,Away Win
+Juventus,Bayern Munich,2,2,0,2,Away Win
+Barcelona,PSG,8,7,2,0,Home Win
+Man City,Real Madrid,4,1,1,0,Home Win
+Chelsea,Manchester United,6,7,0,1,Away Win
+Manchester United,Real Madrid,4,5,1,1,Draw
+Real Madrid,Barcelona,3,8,0,0,Draw
+Manchester United,Juventus,3,9,1,3,Away Win
+Juventus,Barcelona,1,9,3,4,Away Win
+Bayern Munich,PSG,4,3,1,1,Draw
+Real Madrid,Barcelona,9,9,1,3,Away Win
+Arsenal,Chelsea,9,2,2,0,Home Win
+Man City,Liverpool,6,2,2,0,Home Win
+PSG,Real Madrid,2,1,1,0,Home Win
+Juventus,PSG,7,3,2,1,Home Win
+Man City,Liverpool,6,7,2,1,Home Win
+Arsenal,Bayern Munich,7,4,2,0,Home Win
+Real Madrid,Barcelona,1,9,3,2,Home Win
+Barcelona,Chelsea,6,5,0,0,Draw
+Manchester United,Arsenal,4,4,0,0,Draw
+PSG,Real Madrid,3,5,0,2,Away Win
+Barcelona,Juventus,9,3,1,1,Draw
+PSG,Arsenal,4,3,0,2,Away Win
+Arsenal,Man City,5,8,1,1,Draw
+Bayern Munich,Arsenal,3,8,0,3,Away Win
+Juventus,Barcelona,8,5,1,1,Draw
+Real Madrid,Chelsea,9,9,4,2,Home Win
+Chelsea,Man City,3,1,0,0,Draw
+PSG,Manchester United,3,8,1,2,Away Win
+Juventus,Barcelona,6,2,2,1,Home Win
+Real Madrid,Bayern Munich,4,1,0,1,Away Win
+Bayern Munich,Juventus,8,4,1,3,Away Win
+PSG,Liverpool,4,2,1,3,Away Win
+Barcelona,Bayern Munich,8,7,3,0,Home Win
+Real Madrid,Bayern Munich,6,1,1,0,Home Win
+Juventus,Arsenal,6,7,1,1,Draw
+Juventus,Liverpool,8,2,1,0,Home Win
+Barcelona,PSG,9,3,1,0,Home Win
+Barcelona,PSG,2,1,3,0,Home Win
+Chelsea,Liverpool,3,3,2,0,Home Win
+Manchester United,Bayern Munich,8,6,0,1,Away Win
+Barcelona,PSG,2,1,0,0,Draw
+PSG,Manchester United,3,5,3,1,Home Win
+Arsenal,Man City,5,3,1,1,Draw
+Bayern Munich,Barcelona,6,3,2,2,Draw
+Barcelona,PSG,1,5,0,3,Away Win
+Barcelona,PSG,1,6,0,0,Draw
+Real Madrid,Man City,5,4,1,0,Home Win
+Bayern Munich,Chelsea,8,6,2,1,Home Win
+Chelsea,Liverpool,5,4,4,2,Home Win
+Arsenal,Real Madrid,1,8,0,1,Away Win
+Manchester United,Real Madrid,8,8,1,2,Away Win
+Liverpool,Bayern Munich,4,6,1,2,Away Win
+Liverpool,Juventus,6,1,1,1,Draw
+Man City,Chelsea,6,3,2,1,Home Win
+Chelsea,Manchester United,8,6,1,1,Draw
+Juventus,Man City,5,2,0,0,Draw
+Arsenal,Man City,7,1,2,0,Home Win
+PSG,Arsenal,3,7,2,2,Draw
+Real Madrid,Barcelona,8,6,3,0,Home Win
+Barcelona,PSG,9,4,2,1,Home Win
+Juventus,PSG,4,4,1,2,Away Win
+Real Madrid,Man City,8,8,2,1,Home Win
+Arsenal,Real Madrid,7,4,1,2,Away Win
+Real Madrid,PSG,4,4,2,2,Draw
+Arsenal,Chelsea,7,6,1,2,Away Win
+Real Madrid,Barcelona,1,7,1,3,Away Win
+Man City,Liverpool,1,1,2,1,Home Win
+Real Madrid,Liverpool,2,3,0,2,Away Win
+Man City,Barcelona,5,3,2,1,Home Win
+Chelsea,Man City,8,9,2,2,Draw
+Man City,Manchester United,5,5,1,0,Home Win
+Arsenal,Chelsea,9,6,2,0,Home Win
+Juventus,Real Madrid,5,7,2,2,Draw
+Man City,Real Madrid,1,7,2,3,Away Win
+Real Madrid,Arsenal,2,4,1,2,Away Win
+Chelsea,PSG,8,5,0,1,Away Win
+Chelsea,Arsenal,5,6,1,0,Home Win
+PSG,Barcelona,1,2,1,1,Draw
+Chelsea,Manchester United,3,9,4,3,Home Win
+Man City,Real Madrid,7,6,2,1,Home Win
+Liverpool,Arsenal,5,7,0,2,Away Win
+Barcelona,Arsenal,5,8,1,1,Draw
+Manchester United,Chelsea,5,9,0,1,Away Win
+Man City,Real Madrid,5,4,2,1,Home Win
+Arsenal,Bayern Munich,2,9,2,2,Draw
+Bayern Munich,PSG,1,6,1,2,Away Win
+Arsenal,Liverpool,8,8,3,2,Home Win
+Manchester United,Chelsea,5,7,1,1,Draw
+Liverpool,Barcelona,5,7,1,1,Draw
+Manchester United,Barcelona,2,1,0,0,Draw
+Chelsea,Juventus,1,5,1,1,Draw
+Manchester United,Barcelona,2,1,2,0,Home Win
+Arsenal,Real Madrid,9,5,3,1,Home Win
+PSG,Arsenal,2,2,1,2,Away Win
+Arsenal,Manchester United,9,1,2,0,Home Win
+Juventus,PSG,2,2,0,0,Draw
+Manchester United,Arsenal,8,2,1,1,Draw
+Real Madrid,Liverpool,5,1,1,0,Home Win
+Arsenal,Man City,2,6,2,3,Away Win
+Bayern Munich,Chelsea,9,9,2,1,Home Win
+Man City,Liverpool,1,4,0,0,Draw
+Real Madrid,Liverpool,9,5,3,0,Home Win
+PSG,Real Madrid,1,9,2,2,Draw
+Man City,Real Madrid,6,6,1,3,Away Win
+PSG,Juventus,9,9,2,2,Draw
+Real Madrid,PSG,7,9,2,0,Home Win
+Chelsea,Real Madrid,2,8,0,1,Away Win
+Arsenal,PSG,4,2,1,1,Draw
+Man City,Manchester United,3,1,1,0,Home Win
+Chelsea,PSG,3,7,2,2,Draw
+Juventus,Barcelona,3,8,2,2,Draw
+Man City,Real Madrid,9,9,3,2,Home Win
+Manchester United,Juventus,8,1,3,2,Home Win
+Liverpool,Arsenal,8,7,1,4,Away Win
+Arsenal,Man City,1,1,2,0,Home Win
+Liverpool,Arsenal,2,7,4,2,Home Win
+Bayern Munich,Juventus,8,5,0,0,Draw
+Juventus,Arsenal,5,6,1,0,Home Win
+Barcelona,Juventus,5,7,2,1,Home Win
+Chelsea,Man City,6,5,2,0,Home Win
+Real Madrid,PSG,2,2,1,1,Draw
+Juventus,Bayern Munich,1,3,2,0,Home Win
+Barcelona,Bayern Munich,5,5,4,1,Home Win
+Juventus,Bayern Munich,4,2,1,0,Home Win
+Barcelona,PSG,1,7,3,1,Home Win
+Real Madrid,Man City,3,9,2,0,Home Win
+Bayern Munich,Juventus,6,7,2,3,Away Win
+Manchester United,Juventus,4,2,2,1,Home Win
+Man City,Chelsea,9,3,3,3,Draw
+Barcelona,Liverpool,3,4,0,2,Away Win
+Barcelona,Real Madrid,4,3,2,1,Home Win
+Liverpool,Juventus,5,8,1,0,Home Win
+PSG,Chelsea,8,4,1,3,Away Win
+Manchester United,Barcelona,1,7,2,1,Home Win
+Liverpool,Barcelona,3,9,1,0,Home Win
+Real Madrid,Arsenal,9,2,3,0,Home Win
+Barcelona,Juventus,5,2,0,0,Draw
+Chelsea,Juventus,5,2,3,2,Home Win
+Arsenal,Barcelona,7,3,0,1,Away Win
+Juventus,Arsenal,3,1,0,3,Away Win
+Man City,Barcelona,6,3,1,2,Away Win
+Liverpool,Manchester United,9,5,2,0,Home Win
+Chelsea,Arsenal,2,7,0,2,Away Win
+Juventus,Barcelona,1,4,0,2,Away Win
+PSG,Bayern Munich,4,3,0,3,Away Win
+Bayern Munich,Juventus,4,2,1,0,Home Win
+Real Madrid,Arsenal,6,3,1,3,Away Win
+PSG,Manchester United,3,1,3,0,Home Win
+Man City,Barcelona,2,5,0,2,Away Win
+Juventus,Arsenal,4,9,0,1,Away Win
+Barcelona,Chelsea,1,3,1,1,Draw
+Bayern Munich,Manchester United,4,2,2,3,Away Win
+PSG,Liverpool,4,9,1,0,Home Win
+Bayern Munich,Manchester United,4,2,1,1,Draw
+Real Madrid,Chelsea,6,9,0,1,Away Win
+Real Madrid,Liverpool,5,8,1,0,Home Win
+Bayern Munich,Liverpool,1,7,2,2,Draw
+Man City,Liverpool,5,2,4,0,Home Win
+Man City,Manchester United,4,8,1,1,Draw
+Juventus,Barcelona,7,4,1,2,Away Win
+Manchester United,Real Madrid,8,4,4,1,Home Win
+PSG,Liverpool,8,2,0,2,Away Win
+Barcelona,Man City,8,2,2,0,Home Win
+Arsenal,Chelsea,2,2,3,1,Home Win
+Arsenal,Real Madrid,2,8,0,0,Draw
+Bayern Munich,Juventus,1,4,3,0,Home Win
+Real Madrid,Arsenal,4,5,2,1,Home Win
+Man City,Chelsea,3,7,0,2,Away Win
+Real Madrid,Bayern Munich,7,7,0,2,Away Win
+Barcelona,Arsenal,6,3,0,0,Draw
+Bayern Munich,Liverpool,8,1,2,1,Home Win
+Man City,Liverpool,8,6,2,1,Home Win
+Real Madrid,Juventus,1,6,3,0,Home Win
+PSG,Real Madrid,3,6,1,2,Away Win
+PSG,Barcelona,4,3,3,0,Home Win
+Real Madrid,Barcelona,6,7,3,1,Home Win
+Juventus,Bayern Munich,1,1,2,0,Home Win
+PSG,Juventus,8,4,2,2,Draw
+PSG,Real Madrid,3,2,1,0,Home Win
+Arsenal,Bayern Munich,2,8,1,3,Away Win
+Liverpool,Chelsea,1,8,0,1,Away Win
+Juventus,Barcelona,7,7,2,1,Home Win
+PSG,Bayern Munich,8,6,1,1,Draw
+Arsenal,Liverpool,2,4,2,1,Home Win
+Manchester United,Arsenal,3,5,2,0,Home Win
+Juventus,Liverpool,9,7,1,3,Away Win
+Liverpool,PSG,4,9,3,2,Home Win
+Juventus,Arsenal,4,1,0,2,Away Win
+Bayern Munich,Barcelona,4,1,2,2,Draw
+Manchester United,Real Madrid,8,8,2,1,Home Win
+Liverpool,Real Madrid,9,8,2,1,Home Win
+Barcelona,Arsenal,7,9,1,1,Draw
+Chelsea,Juventus,6,5,2,1,Home Win
+Barcelona,PSG,5,7,1,0,Home Win
+Man City,Barcelona,8,9,1,1,Draw
+Bayern Munich,PSG,9,9,0,1,Away Win
+Bayern Munich,Liverpool,1,9,0,2,Away Win
+Manchester United,Man City,1,3,2,0,Home Win
+Real Madrid,Manchester United,5,5,0,0,Draw
+Juventus,Chelsea,3,8,2,0,Home Win
+Juventus,Barcelona,3,9,1,0,Home Win
+Liverpool,Bayern Munich,6,5,2,3,Away Win
+Barcelona,PSG,1,7,0,1,Away Win
+Juventus,Barcelona,7,5,2,0,Home Win
+Real Madrid,Manchester United,8,3,2,0,Home Win
+Manchester United,PSG,6,5,1,1,Draw
+Chelsea,Man City,8,7,3,2,Home Win
+Arsenal,PSG,8,7,2,2,Draw
+PSG,Liverpool,9,7,4,0,Home Win
+Manchester United,Arsenal,9,7,0,1,Away Win
+Barcelona,Chelsea,6,8,2,1,Home Win
+PSG,Barcelona,7,3,1,1,Draw
+Manchester United,Barcelona,6,1,1,2,Away Win
+Barcelona,Real Madrid,7,6,1,1,Draw
+Chelsea,Liverpool,8,5,1,0,Home Win
+Man City,Bayern Munich,1,4,0,2,Away Win
+Real Madrid,Barcelona,5,1,2,0,Home Win
+Manchester United,Arsenal,4,2,3,1,Home Win
+Man City,Bayern Munich,7,3,1,0,Home Win
+Real Madrid,Manchester United,5,2,2,3,Away Win
+Liverpool,Bayern Munich,2,7,1,2,Away Win
+Manchester United,Juventus,6,3,1,1,Draw
+PSG,Barcelona,4,6,1,2,Away Win
+Manchester United,Barcelona,8,5,2,0,Home Win
+Manchester United,Chelsea,3,7,2,0,Home Win
+Liverpool,Arsenal,5,8,3,3,Draw
+Real Madrid,Barcelona,2,3,0,2,Away Win
+Chelsea,Barcelona,8,5,3,1,Home Win
