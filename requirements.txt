@@ -1,6 +1,7 @@
 annotated-doc==0.0.4
 annotated-types==0.7.0
 anyio==4.13.0
+APScheduler==3.11.2
 certifi==2026.5.20
 charset-normalizer==3.4.7
 click==8.4.1
@@ -10,6 +11,8 @@ cycler==0.12.1
 fastapi==0.137.0
 fonttools==4.63.0
 h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
 idna==3.18
 joblib==1.5.3
 kiwisolver==1.5.0
@@ -35,5 +38,6 @@ threadpoolctl==3.6.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 tzdata==2026.2
+tzlocal==5.3.1
 urllib3==2.7.0
 uvicorn==0.49.0

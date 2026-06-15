@@ -2,17 +2,19 @@
 FastAPI REST Interface for Football Prediction System.
 
 Exposes match prediction functionality via HTTP endpoints with automatic
-validation, documentation, and database persistence.
+validation, documentation, database persistence, and automated background
+data pipeline scheduling.
 
 Author: [Your Name]
 Date: 2026-06-15
-Version: 3.0.0
+Version: 3.1.0 (Integrated APScheduler)
 """
 
 import os
 import sys
 from typing import Dict, Optional
 
+from apscheduler.schedulers.background import BackgroundScheduler
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 
@@ -23,20 +25,24 @@ if PROJECT_ROOT not in sys.path:
 
 from src.predict import create_predictor  # noqa: E402
 from src.database import db_manager       # noqa: E402
+from src.pipeline import run_data_pipeline # noqa: E402
 
 app = FastAPI(
     title="Football Prediction AI API",
-    description="REST API for ML-based football match outcome prediction",
-    version="3.0.0",
+    description="REST API for ML-based football match outcome prediction with automated data pipeline",
+    version="3.1.0",
 )
 
 predictor = None
+scheduler = BackgroundScheduler(daemon=True)
 
 
 @app.on_event("startup")
-async def load_model_on_startup():
-    """Load ML model once at startup to avoid latency on each request."""
+async def startup_events():
+    """Load ML model and initialize background scheduler on server startup."""
     global predictor
+    
+    # Load model
     try:
         models_dir = os.path.join(PROJECT_ROOT, "models")
         predictor = create_predictor(models_dir)
@@ -45,9 +51,34 @@ async def load_model_on_startup():
         print(f"[API CRITICAL] Failed to load model: {e}")
         raise
 
+    # Initialize scheduler
+    try:
+        scheduler.add_job(
+            func=run_data_pipeline,
+            trigger="cron",
+            hour=2,
+            minute=0,
+            id="daily_data_pipeline",
+            replace_existing=True,
+            misfire_grace_time=3600,  # Allow job to run if server was down during scheduled time
+        )
+        scheduler.start()
+        print("[API] Background scheduler started. Next pipeline: Daily at 02:00")
+    except Exception as e:
+        print(f"[API WARNING] Scheduler initialization failed: {e}")
+        # Do not crash server if scheduler fails; predictions still work
+
+
+@app.on_event("shutdown")
+async def shutdown_events():
+    """Gracefully shut down background scheduler."""
+    if scheduler.running:
+        scheduler.shutdown(wait=False)
+        print("[API] Background scheduler stopped.")
+
 
 class PredictionRequest(BaseModel):
-    """Schema for incoming prediction requests."""
+    """Schema for incoming prediction requests with strict validation."""
     home_team: str = Field(..., min_length=1, max_length=100, example="Liverpool FC")
     away_team: str = Field(..., min_length=1, max_length=100, example="Manchester United FC")
     home_goals_avg: float = Field(default=1.5, ge=0, le=10)
@@ -96,7 +127,6 @@ async def predict_match(request: PredictionRequest):
         max_outcome = max(result, key=result.get)
         max_confidence = result[max_outcome]
 
-        # Persist to database
         log_data = {
             "home_team": request.home_team,
             "away_team": request.away_team,
@@ -128,4 +158,8 @@ async def predict_match(request: PredictionRequest):
 @app.get("/health")
 async def health_check():
     """Health check endpoint for monitoring and load balancers."""
-    return {"status": "healthy", "model_loaded": predictor is not None}
+    return {
+        "status": "healthy",
+        "model_loaded": predictor is not None,
+        "scheduler_running": scheduler.running,
+    }

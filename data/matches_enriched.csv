@@ -85,7 +85,7 @@ Newcastle United FC,Fulham FC,2,1,Home Win,2025-10-25 14:00:00+00:00,7.0,3.0,1,0
 Manchester United FC,Brighton & Hove Albion FC,4,2,Home Win,2025-10-25 16:30:00+00:00,12.0,8.0,2,0,0
 Brentford FC,Liverpool FC,3,2,Home Win,2025-10-25 19:00:00+00:00,9.0,3.0,1,1,0
 AFC Bournemouth,Nottingham Forest FC,2,0,Home Win,2025-10-26 14:00:00+00:00,9.0,1.0,1,1,0
-Aston Villa FC,Manchester City FC,1,0,Home Win,2025-10-26 14:00:00+00:00,13.0,10.0,2,0,0
+Aston Villa FC,Manchester City FC,1,0,Home Win,2025-10-26 14:00:00+00:00,13.0,10.0,1,1,0
 Arsenal FC,Crystal Palace FC,1,0,Home Win,2025-10-26 14:00:00+00:00,13.0,7.0,2,0,0
 Wolverhampton Wanderers FC,Burnley FC,2,3,Away Win,2025-10-26 14:00:00+00:00,2.0,7.0,0,1,1
 Everton FC,Tottenham Hotspur FC,0,3,Away Win,2025-10-26 16:30:00+00:00,4.0,8.0,0,0,2
@@ -97,7 +97,7 @@ Brighton & Hove Albion FC,Leeds United FC,3,0,Home Win,2025-11-01 15:00:00+00:00
 Tottenham Hotspur FC,Chelsea FC,0,1,Away Win,2025-11-01 17:30:00+00:00,7.0,9.0,0,0,2
 Liverpool FC,Aston Villa FC,2,0,Home Win,2025-11-01 20:00:00+00:00,3.0,12.0,1,0,1
 West Ham United FC,Newcastle United FC,3,1,Home Win,2025-11-02 14:00:00+00:00,4.0,6.0,1,0,1
-Manchester City FC,AFC Bournemouth,3,1,Home Win,2025-11-02 16:30:00+00:00,12.0,8.0,1,1,0
+Manchester City FC,AFC Bournemouth,3,1,Home Win,2025-11-02 16:30:00+00:00,12.0,8.0,1,0,0
 Sunderland AFC,Everton FC,1,1,Draw,2025-11-03 20:00:00+00:00,10.0,5.0,1,1,0
 Tottenham Hotspur FC,Manchester United FC,2,2,Draw,2025-11-08 12:30:00+00:00,7.0,11.0,0,1,1
 Everton FC,Fulham FC,2,0,Home Win,2025-11-08 15:00:00+00:00,7.0,3.0,2,0,0
@@ -235,16 +235,16 @@ Wolverhampton Wanderers FC,AFC Bournemouth,0,2,Away Win,2026-01-31 15:00:00+00:0
 Chelsea FC,West Ham United FC,3,2,Home Win,2026-01-31 17:30:00+00:00,10.0,6.0,2,0,0
 Liverpool FC,Newcastle United FC,4,1,Home Win,2026-01-31 20:00:00+00:00,6.0,7.0,2,0,0
 Nottingham Forest FC,Crystal Palace FC,1,1,Draw,2026-02-01 14:00:00+00:00,8.0,2.0,0,2,0
-Manchester United FC,Fulham FC,3,2,Home Win,2026-02-01 14:00:00+00:00,11.0,7.0,1,1,0
 Aston Villa FC,Brentford FC,0,1,Away Win,2026-02-01 14:00:00+00:00,7.0,9.0,0,0,2
+Manchester United FC,Fulham FC,3,2,Home Win,2026-02-01 14:00:00+00:00,11.0,7.0,1,1,0
 Tottenham Hotspur FC,Manchester City FC,2,2,Draw,2026-02-01 16:30:00+00:00,3.0,6.0,1,1,0
 Sunderland AFC,Burnley FC,3,0,Home Win,2026-02-02 20:00:00+00:00,7.0,3.0,1,0,1
 Leeds United FC,Nottingham Forest FC,3,1,Home Win,2026-02-06 20:00:00+00:00,7.0,8.0,1,0,1
 Manchester United FC,Tottenham Hotspur FC,2,0,Home Win,2026-02-07 12:30:00+00:00,13.0,2.0,1,1,0
+Fulham FC,Everton FC,1,2,Away Win,2026-02-07 15:00:00+00:00,6.0,9.0,0,0,2
 AFC Bournemouth,Aston Villa FC,1,1,Draw,2026-02-07 15:00:00+00:00,11.0,5.0,0,1,1
 Arsenal FC,Sunderland AFC,3,0,Home Win,2026-02-07 15:00:00+00:00,8.0,6.0,1,1,0
 Burnley FC,West Ham United FC,0,2,Away Win,2026-02-07 15:00:00+00:00,3.0,9.0,0,0,2
-Fulham FC,Everton FC,1,2,Away Win,2026-02-07 15:00:00+00:00,6.0,9.0,0,0,2
 Wolverhampton Wanderers FC,Chelsea FC,1,3,Away Win,2026-02-07 15:00:00+00:00,2.0,12.0,0,0,2
 Newcastle United FC,Brentford FC,2,3,Away Win,2026-02-07 17:30:00+00:00,4.0,9.0,0,0,2
 Brighton & Hove Albion FC,Crystal Palace FC,0,1,Away Win,2026-02-08 14:00:00+00:00,3.0,5.0,0,1,1
@@ -253,9 +253,9 @@ Chelsea FC,Leeds United FC,2,2,Draw,2026-02-10 19:30:00+00:00,13.0,8.0,0,1,1
 Everton FC,AFC Bournemouth,1,2,Away Win,2026-02-10 19:30:00+00:00,8.0,11.0,1,0,1
 Tottenham Hotspur FC,Newcastle United FC,1,2,Away Win,2026-02-10 19:30:00+00:00,2.0,4.0,0,1,1
 West Ham United FC,Manchester United FC,1,1,Draw,2026-02-10 20:15:00+00:00,10.0,13.0,0,2,0
-Aston Villa FC,Brighton & Hove Albion FC,1,0,Home Win,2026-02-11 19:30:00+00:00,7.0,2.0,2,0,0
 Manchester City FC,Fulham FC,3,0,Home Win,2026-02-11 19:30:00+00:00,10.0,3.0,2,0,0
 Nottingham Forest FC,Wolverhampton Wanderers FC,0,0,Draw,2026-02-11 19:30:00+00:00,6.0,2.0,1,1,0
+Aston Villa FC,Brighton & Hove Albion FC,1,0,Home Win,2026-02-11 19:30:00+00:00,7.0,2.0,2,0,0
 Crystal Palace FC,Burnley FC,2,3,Away Win,2026-02-11 19:40:00+00:00,4.0,5.0,1,0,1
 Sunderland AFC,Liverpool FC,0,1,Away Win,2026-02-11 20:15:00+00:00,6.0,7.0,0,1,1
 Brentford FC,Arsenal FC,1,1,Draw,2026-02-12 20:00:00+00:00,7.0,8.0,0,1,1
@@ -265,8 +265,8 @@ Brentford FC,Brighton & Hove Albion FC,0,2,Away Win,2026-02-21 15:00:00+00:00,7.
 Chelsea FC,Burnley FC,1,1,Draw,2026-02-21 15:00:00+00:00,11.0,5.0,1,1,0
 West Ham United FC,AFC Bournemouth,0,0,Draw,2026-02-21 17:30:00+00:00,8.0,11.0,0,2,0
 Manchester City FC,Newcastle United FC,2,1,Home Win,2026-02-21 20:00:00+00:00,13.0,3.0,1,0,1
-Crystal Palace FC,Wolverhampton Wanderers FC,1,0,Home Win,2026-02-22 14:00:00+00:00,7.0,2.0,2,0,0
 Nottingham Forest FC,Liverpool FC,0,1,Away Win,2026-02-22 14:00:00+00:00,5.0,9.0,1,0,1
+Crystal Palace FC,Wolverhampton Wanderers FC,1,0,Home Win,2026-02-22 14:00:00+00:00,7.0,2.0,2,0,0
 Sunderland AFC,Fulham FC,1,3,Away Win,2026-02-22 14:00:00+00:00,3.0,6.0,0,0,2
 Tottenham Hotspur FC,Arsenal FC,1,4,Away Win,2026-02-22 16:30:00+00:00,2.0,11.0,0,0,2
 Everton FC,Manchester United FC,0,1,Away Win,2026-02-23 20:00:00+00:00,5.0,13.0,1,0,1
@@ -277,12 +277,12 @@ Liverpool FC,West Ham United FC,5,2,Home Win,2026-02-28 15:00:00+00:00,12.0,5.0,
 Newcastle United FC,Everton FC,2,3,Away Win,2026-02-28 15:00:00+00:00,3.0,7.0,1,0,1
 Leeds United FC,Manchester City FC,0,1,Away Win,2026-02-28 17:30:00+00:00,5.0,13.0,0,0,2
 Fulham FC,Tottenham Hotspur FC,2,1,Home Win,2026-03-01 14:00:00+00:00,6.0,1.0,2,0,0
-Manchester United FC,Crystal Palace FC,2,1,Home Win,2026-03-01 14:00:00+00:00,13.0,7.0,2,0,0
 Brighton & Hove Albion FC,Nottingham Forest FC,2,1,Home Win,2026-03-01 14:00:00+00:00,7.0,2.0,2,0,0
+Manchester United FC,Crystal Palace FC,2,1,Home Win,2026-03-01 14:00:00+00:00,13.0,7.0,2,0,0
 Arsenal FC,Chelsea FC,2,1,Home Win,2026-03-01 16:30:00+00:00,11.0,8.0,1,1,0
-AFC Bournemouth,Brentford FC,0,0,Draw,2026-03-03 19:30:00+00:00,7.0,8.0,0,1,1
 Everton FC,Burnley FC,2,0,Home Win,2026-03-03 19:30:00+00:00,9.0,4.0,1,1,0
 Leeds United FC,Sunderland AFC,0,1,Away Win,2026-03-03 19:30:00+00:00,5.0,4.0,0,1,1
+AFC Bournemouth,Brentford FC,0,0,Draw,2026-03-03 19:30:00+00:00,7.0,8.0,0,1,1
 Wolverhampton Wanderers FC,Liverpool FC,2,1,Home Win,2026-03-03 20:15:00+00:00,8.0,9.0,1,0,1
 Aston Villa FC,Chelsea FC,1,4,Away Win,2026-03-04 19:30:00+00:00,5.0,8.0,1,0,1
 Brighton & Hove Albion FC,Arsenal FC,0,1,Away Win,2026-03-04 19:30:00+00:00,6.0,11.0,0,0,2
@@ -292,8 +292,8 @@ Newcastle United FC,Manchester United FC,2,1,Home Win,2026-03-04 20:15:00+00:00,
 Tottenham Hotspur FC,Crystal Palace FC,1,3,Away Win,2026-03-05 20:00:00+00:00,0.0,9.0,1,0,1
 Sunderland AFC,Brighton & Hove Albion FC,0,1,Away Win,2026-03-14 15:00:00+00:00,4.0,9.0,0,1,1
 Burnley FC,AFC Bournemouth,0,0,Draw,2026-03-14 15:00:00+00:00,5.0,7.0,0,2,0
-Arsenal FC,Everton FC,2,0,Home Win,2026-03-14 17:30:00+00:00,13.0,6.0,2,0,0
 Chelsea FC,Newcastle United FC,0,1,Away Win,2026-03-14 17:30:00+00:00,5.0,9.0,0,1,1
+Arsenal FC,Everton FC,2,0,Home Win,2026-03-14 17:30:00+00:00,13.0,6.0,2,0,0
 West Ham United FC,Manchester City FC,1,1,Draw,2026-03-14 20:00:00+00:00,6.0,11.0,0,1,1
 Crystal Palace FC,Leeds United FC,0,0,Draw,2026-03-15 14:00:00+00:00,7.0,3.0,0,1,1
 Manchester United FC,Aston Villa FC,3,1,Home Win,2026-03-15 14:00:00+00:00,10.0,4.0,1,0,1
@@ -313,9 +313,9 @@ Arsenal FC,AFC Bournemouth,1,2,Away Win,2026-04-11 11:30:00+00:00,12.0,7.0,1,0,1
 Brentford FC,Everton FC,2,2,Draw,2026-04-11 14:00:00+00:00,7.0,10.0,1,1,0
 Burnley FC,Brighton & Hove Albion FC,0,2,Away Win,2026-04-11 14:00:00+00:00,1.0,12.0,0,0,2
 Liverpool FC,Fulham FC,2,0,Home Win,2026-04-11 16:30:00+00:00,7.0,7.0,1,1,0
-Sunderland AFC,Tottenham Hotspur FC,1,0,Home Win,2026-04-12 13:00:00+00:00,10.0,1.0,1,1,0
-Crystal Palace FC,Newcastle United FC,2,1,Home Win,2026-04-12 13:00:00+00:00,10.0,6.0,1,0,1
 Nottingham Forest FC,Aston Villa FC,1,1,Draw,2026-04-12 13:00:00+00:00,6.0,4.0,0,1,1
+Crystal Palace FC,Newcastle United FC,2,1,Home Win,2026-04-12 13:00:00+00:00,10.0,6.0,1,0,1
+Sunderland AFC,Tottenham Hotspur FC,1,0,Home Win,2026-04-12 13:00:00+00:00,10.0,1.0,1,1,0
 Chelsea FC,Manchester City FC,0,3,Away Win,2026-04-12 15:30:00+00:00,3.0,11.0,0,1,1
 Manchester United FC,Leeds United FC,1,2,Away Win,2026-04-13 19:00:00+00:00,7.0,5.0,0,1,1
 Brentford FC,Fulham FC,0,0,Draw,2026-04-18 11:30:00+00:00,5.0,5.0,0,1,1
@@ -339,9 +339,9 @@ Wolverhampton Wanderers FC,Tottenham Hotspur FC,0,1,Away Win,2026-04-25 14:00:00
 Arsenal FC,Newcastle United FC,1,0,Home Win,2026-04-25 16:30:00+00:00,9.0,3.0,2,0,0
 Manchester United FC,Brentford FC,2,1,Home Win,2026-04-27 19:00:00+00:00,10.0,4.0,1,0,1
 Leeds United FC,Burnley FC,3,1,Home Win,2026-05-01 19:00:00+00:00,11.0,0.0,1,0,1
-Wolverhampton Wanderers FC,Sunderland AFC,1,1,Draw,2026-05-02 14:00:00+00:00,2.0,7.0,0,1,1
 Brentford FC,West Ham United FC,3,0,Home Win,2026-05-02 14:00:00+00:00,6.0,7.0,2,0,0
 Newcastle United FC,Brighton & Hove Albion FC,3,1,Home Win,2026-05-02 14:00:00+00:00,3.0,10.0,1,0,1
+Wolverhampton Wanderers FC,Sunderland AFC,1,1,Draw,2026-05-02 14:00:00+00:00,2.0,7.0,0,1,1
 Arsenal FC,Fulham FC,3,0,Home Win,2026-05-02 16:30:00+00:00,9.0,7.0,2,0,0
 AFC Bournemouth,Crystal Palace FC,3,0,Home Win,2026-05-03 13:00:00+00:00,11.0,5.0,1,1,0
 Manchester United FC,Liverpool FC,3,2,Home Win,2026-05-03 14:30:00+00:00,10.0,9.0,2,0,0
@@ -349,9 +349,9 @@ Aston Villa FC,Tottenham Hotspur FC,1,2,Away Win,2026-05-03 18:00:00+00:00,7.0,7
 Chelsea FC,Nottingham Forest FC,1,3,Away Win,2026-05-04 14:00:00+00:00,0.0,13.0,1,0,1
 Everton FC,Manchester City FC,3,3,Draw,2026-05-04 19:00:00+00:00,5.0,11.0,0,1,1
 Liverpool FC,Chelsea FC,1,1,Draw,2026-05-09 11:30:00+00:00,10.0,1.0,0,1,1
-Fulham FC,AFC Bournemouth,0,1,Away Win,2026-05-09 14:00:00+00:00,4.0,13.0,0,0,2
-Brighton & Hove Albion FC,Wolverhampton Wanderers FC,3,0,Home Win,2026-05-09 14:00:00+00:00,10.0,1.0,1,1,0
 Sunderland AFC,Manchester United FC,0,0,Draw,2026-05-09 14:00:00+00:00,5.0,10.0,0,1,1
+Brighton & Hove Albion FC,Wolverhampton Wanderers FC,3,0,Home Win,2026-05-09 14:00:00+00:00,10.0,1.0,1,1,0
+Fulham FC,AFC Bournemouth,0,1,Away Win,2026-05-09 14:00:00+00:00,4.0,13.0,0,0,2
 Manchester City FC,Brentford FC,3,0,Home Win,2026-05-09 16:30:00+00:00,13.0,5.0,2,0,0
 Crystal Palace FC,Everton FC,2,2,Draw,2026-05-10 13:00:00+00:00,5.0,3.0,0,1,1
 Burnley FC,Aston Villa FC,2,2,Draw,2026-05-10 13:00:00+00:00,1.0,5.0,0,1,1
@@ -361,17 +361,16 @@ Tottenham Hotspur FC,Leeds United FC,1,1,Draw,2026-05-11 19:00:00+00:00,8.0,11.0
 Manchester City FC,Crystal Palace FC,3,0,Home Win,2026-05-13 19:00:00+00:00,13.0,2.0,2,0,0
 Aston Villa FC,Liverpool FC,4,2,Home Win,2026-05-15 19:00:00+00:00,7.0,7.0,1,0,1
 Manchester United FC,Nottingham Forest FC,3,2,Home Win,2026-05-17 11:30:00+00:00,13.0,10.0,1,1,0
-Wolverhampton Wanderers FC,Fulham FC,1,1,Draw,2026-05-17 14:00:00+00:00,2.0,5.0,0,1,1
-Leeds United FC,Brighton & Hove Albion FC,1,0,Home Win,2026-05-17 14:00:00+00:00,11.0,7.0,1,0,1
 Brentford FC,Crystal Palace FC,2,2,Draw,2026-05-17 14:00:00+00:00,5.0,2.0,0,1,1
 Everton FC,Sunderland AFC,1,3,Away Win,2026-05-17 14:00:00+00:00,2.0,5.0,0,1,1
+Leeds United FC,Brighton & Hove Albion FC,1,0,Home Win,2026-05-17 14:00:00+00:00,11.0,7.0,1,0,1
+Wolverhampton Wanderers FC,Fulham FC,1,1,Draw,2026-05-17 14:00:00+00:00,2.0,5.0,0,1,1
 Newcastle United FC,West Ham United FC,3,1,Home Win,2026-05-17 16:30:00+00:00,7.0,4.0,1,0,1
 Arsenal FC,Burnley FC,1,0,Home Win,2026-05-18 19:00:00+00:00,12.0,1.0,2,0,0
-AFC Bournemouth,Manchester City FC,1,1,Draw,2026-05-19 18:30:00+00:00,11.0,11.0,0,1,1
 Chelsea FC,Tottenham Hotspur FC,2,1,Home Win,2026-05-19 19:15:00+00:00,4.0,8.0,2,0,0
+Manchester City FC,Aston Villa FC,2,2,Draw,2026-05-24 15:00:00+00:00,11.0,5.0,0,1,1
 Liverpool FC,Brentford FC,1,1,Draw,2026-05-24 15:00:00+00:00,5.0,5.0,0,1,1
-Nottingham Forest FC,AFC Bournemouth,1,1,Draw,2026-05-24 15:00:00+00:00,8.0,9.0,0,1,1
-Manchester City FC,Aston Villa FC,1,2,Away Win,2026-05-24 15:00:00+00:00,8.0,7.0,0,0,2
+Nottingham Forest FC,AFC Bournemouth,1,1,Draw,2026-05-24 15:00:00+00:00,8.0,11.0,0,1,1
 Fulham FC,Newcastle United FC,2,0,Home Win,2026-05-24 15:00:00+00:00,7.0,7.0,1,0,1
 Tottenham Hotspur FC,Everton FC,1,0,Home Win,2026-05-24 15:00:00+00:00,10.0,2.0,2,0,0
 Crystal Palace FC,Arsenal FC,1,2,Away Win,2026-05-24 15:00:00+00:00,2.0,15.0,0,0,2
